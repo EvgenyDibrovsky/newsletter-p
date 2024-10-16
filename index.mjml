@@ -63,14 +63,14 @@
     </mj-section>
 
     <mj-section padding-top="10px" background-color="#ffffff" border-bottom="2px">
-      <mj-group width="90%">
+      <mj-group width="85%">
         <mj-column width="20%" vertical-align="top">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="0" align="left" font-weight="400" font-size="40px" color="#a4a4a4" font-family="Arial" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="7.5px" align="left" font-weight="400" font-size="35px" color="#a4a4a4" font-family="Verdana" align="baseline">
             01
           </mj-text>
         </mj-column>
         <mj-column width="80%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="7.5px" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
             <strong>RYSUNKI I MODELE 2D I 3D </strong> – pozwalają szybko tworzyć dokładniejsze dokumentacje techniczne, oceniać ergonomię przestrzeni i generować realistyczne wizualizacje.
           </mj-text>
         </mj-column>
@@ -78,21 +78,21 @@
     </mj-section>
 
     <mj-section>
-      <mj-column>
-        <mj-divider padding="0" width="90%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
+      <mj-column width="85%" padding="0">
+        <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
       </mj-column>
     </mj-section>
 
 
     <mj-section padding-top="10px" background-color="#ffffff" border-bottom="2px">
-      <mj-group width="90%">
+      <mj-group width="85%">
         <mj-column width="20%" vertical-align="top">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="0" align="left" font-weight="400" font-size="40px" color="#a4a4a4" font-family="Arial" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="7.5px" align="left" font-weight="400" font-size="35px" color="#a4a4a4" font-family="Verdana" align="baseline">
             02
           </mj-text>
         </mj-column>
         <mj-column width="80%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="7.5px" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
             <strong>BAZA WIEDZY</strong> – największa zbiór wiedzy o drzwiach i źródło rzetelnych materiałów edukacyjnych.
           </mj-text>
         </mj-column>
@@ -100,41 +100,41 @@
     </mj-section>
 
     <mj-section>
-      <mj-column>
-        <mj-divider padding="0" width="90%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
+      <mj-column width="85%" padding="0">
+        <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="10px" background-color="#ffffff" border-bottom="2px">
-      <mj-group width="90%">
+      <mj-group width="85%">
         <mj-column width="20%" vertical-align="top">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="0" align="left" font-weight="400" font-size="40px" color="#a4a4a4" font-family="Arial" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="7.5px" align="left" font-weight="400" font-size="35px" color="#a4a4a4" font-family="Verdana" align="baseline">
             03
           </mj-text>
         </mj-column>
         <mj-column width="80%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="7.5px" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
-            <strong>GOTOWE ZESTAWY DRZWI DO OBIEKTÓW</strong> – kompleksowe przykłady rozwiązań inwestycyjnych  do 12 kategorii obiektów, np. do domów, budynków deweloperskich czy hoteli (m.in. z oryginalnymi i nowoczesnymi zabudowami).
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
+            <strong>GOTOWE ZESTAWY DRZWI DO OBIEKTÓW</strong> – kompleksowe przykłady rozwiązań inwestycyjnych do 12 kategorii obiektów, np. do domów, budynków deweloperskich czy hoteli (m.in. z oryginalnymi i nowoczesnymi zabudowami).
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
     <mj-section>
-      <mj-column>
-        <mj-divider padding="0" width="90%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
+      <mj-column width="85%" padding="0">
+        <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="10px" background-color="#ffffff" border-bottom="2px">
-      <mj-group width="90%">
+      <mj-group width="85%">
         <mj-column width="20%" vertical-align="top">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="0" align="left" font-weight="400" font-size="40px" color="#a4a4a4" font-family="Arial" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="7.5px" align="left" font-weight="400" font-size="35px" color="#a4a4a4" font-family="Verdana" align="baseline">
             04
           </mj-text>
         </mj-column>
         <mj-column width="80%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="7.5px" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
             <strong>REALIZACJE</strong> – gotowe realizacje i pomysły na realizacje z drzwiami PORTA, pozwalające nawet na dzielenie się swoim projektem w ramach PORTA BY ME.
           </mj-text>
         </mj-column>
@@ -142,32 +142,32 @@
     </mj-section>
 
     <mj-section>
-      <mj-column>
-        <mj-divider padding="0" width="90%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
+      <mj-column width="85%" padding="0">
+        <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#C9C9C9" />
       </mj-column>
     </mj-section>
 
-    <mj-section padding-bottom="45px" padding-top="10px" background-color="#ffffff" border-bottom="2px">
-      <mj-group width="90%">
+    <mj-section padding-top="10px" padding-bottom="45px" background-color="#ffffff" border-bottom="2px">
+      <mj-group width="85%">
         <mj-column width="20%" vertical-align="top">
-          <mj-text padding-top="0" padding-bottom="0" padding-right="0" align="left" font-weight="400" font-size="40px" color="#a4a4a4" font-family="Arial" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="7.5px" align="left" font-weight="400" font-size="35px" color="#a4a4a4" font-family="Verdana" align="baseline">
             05
           </mj-text>
         </mj-column>
         <mj-column width="80%">
-          <mj-text padding-top="0" padding-bottom="0" padding-left="7.5px" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
+          <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-weight="400" font-size="14px" line-height="20.3px" color="#000000" font-family="Verdana" align="baseline">
             <strong>PRÓBKI KOLORÓW W E-SKLEPIE</strong> – umożliwiają sprawdzanie kolorów i porównywanie struktur oraz kupno pojedynczych kolorów.
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
-    <mj-wrapper background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-p/img/bg-content.png" background-repeat="no-repeat" background-position="center" background-size="cover">
-      <mj-section padding-top="95px" padding-bottom="95px">
+
+    <mj-wrapper padding-top="95px" padding-bottom="95px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-p/img/bg-content.png" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-section>
         <mj-group width="80%">
           <mj-column width="30%" vertical-align="middle">
             <mj-image width="96px" src="https://evgenydibrovsky.github.io/newsletter-p/img/content.png" />
-
           </mj-column>
           <mj-column width="70%" vertical-align="middle">
             <mj-text align="left" font-weight="800" line-height="23.4px" font-size="18px" color="#ffffff" font-family="Verdana" align="baseline">
@@ -239,7 +239,6 @@
         <mj-text padding-bottom="0" padding-top="10px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
           If you no longer want to hear from us,
           <a href="#" target="_blank" rel="noopener noreferrer" style="color: #ffffff">click here</a>
-
         </mj-text>
       </mj-column>
     </mj-section>
