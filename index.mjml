@@ -216,19 +216,19 @@
 
 
     <mj-section background-color="#000000" padding-bottom="35px">
-      <mj-column>
-        <mj-text align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-1.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-2.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-3.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-4.png" style="wifth: 22px; margin-right: 14.24px"></a>
+      <mj-column width="85%">
+        <mj-text align="center" align="baseline">
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-1.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-2.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-3.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-4.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
         </mj-text>
         <mj-text padding-bottom="0" padding-top="20px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
-          PORTA KMI POLAND spółka akcyjna, ul. Szkolna 54, 84–239 Bolszewo, <a href="https://www.porta.com.pl/" target="_blank" rel="noopener noreferrer" style="color: #ffffff"> www.porta.com.pl</a> zarejestrowana w Sądzie Rejonowym Gdańsk – Północ w Gdańsku, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, KRS: 0000 838 758, NIP: 585 000 62 04, REGON: 190542423. Kapitał zakładowy: 125.704.899,00 zł, w całości opłacony.Administratorem Twoich danych jest PORTA KMI POLAND S.A. Odnośnie przysługujących Ci praw: porta.com.pl/obowiazek_informacyjny
+          PORTA KMI POLAND spółka akcyjna, ul. Szkolna 54, 84–239 Bolszewo, <a href="https://www.porta.com.pl/" target="_blank" rel="noopener noreferrer" style="color: #ffffff;"> www.porta.com.pl</a> zarejestrowana w Sądzie Rejonowym Gdańsk – Północ w Gdańsku, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, KRS: 0000 838 758, NIP: 585 000 62 04, REGON: 190542423. Kapitał zakładowy: 125.704.899,00 zł, w całości opłacony.Administratorem Twoich danych jest PORTA KMI POLAND S.A. Odnośnie przysługujących Ci praw: <a href="https://www.porta.com.pl/obowiazek-informacyjny" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">https://www.porta.com.pl/obowiazek-informacyjny</a>
         </mj-text>
         <mj-text padding-bottom="0" padding-top="10px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
           If you no longer want to hear from us,
-          <a href="#" target="_blank" rel="noopener noreferrer" style="color: #ffffff">click here</a>
+          <a href="#" target="_blank" rel="noopener noreferrer" style="color: #ffffff;">click here</a>
         </mj-text>
       </mj-column>
     </mj-section>
