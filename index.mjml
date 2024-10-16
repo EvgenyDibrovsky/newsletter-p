@@ -14,7 +14,7 @@
             </mj-text>
           </mj-column>
           <mj-column width="20%" vertical-align="middle">
-            <mj-image src="./img/Logo.png" alt="logotyp" align="right" width="90px" padding="0" />
+            <mj-image src="https://github.com/EvgenyDibrovsky/newsletter-p/img/Logo.png" alt="logotyp" align="right" width="90px" padding="0" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -25,7 +25,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-wrapper padding="0" background-color="#ffffff" background-url="./img/bg-hero.png" background-repeat="no-repeat" background-position="center" background-size="cover">
+    <mj-wrapper padding="0" background-color="#ffffff" background-url="https://github.com/EvgenyDibrovsky/newsletter-p/img/bg-hero.png" background-repeat="no-repeat" background-position="center" background-size="cover">
       <mj-section padding="0">
         <mj-column width="80%" padding-top="89px" padding-bottom="89px">
           <mj-text padding="0" align="center" font-weight="800" line-height="130%" font-size="18px" color="#ffffff" font-family="Verdana" align="baseline">
@@ -159,11 +159,11 @@
       </mj-group>
     </mj-section>
 
-    <mj-wrapper background-color="#ffffff" background-url="./img/bg-content.png" background-repeat="no-repeat" background-position="center" background-size="cover">
+    <mj-wrapper background-color="#ffffff" background-url="https://github.com/EvgenyDibrovsky/newsletter-p/img/bg-content.png" background-repeat="no-repeat" background-position="center" background-size="cover">
       <mj-section padding-top="95px" padding-bottom="95px">
 
         <mj-column width="30%" vertical-align="middle">
-          <mj-image width="96px" src="./img/content.png" />
+          <mj-image width="96px" src="https://github.com/EvgenyDibrovsky/newsletter-p/img/content.png" />
 
         </mj-column>
         <mj-column width="70%" vertical-align="middle">
@@ -183,7 +183,7 @@
         <mj-text padding="0" align="center" font-weight="400" line-height="20.3px" font-size="14px" color="#000000" font-family="Verdana" align="baseline">
           – dedykowanej przestrzeni stworzonej z szacunku do drzwi. Gdzie zaprojektowana z myślą o architektach i projektantach ekspozycja, swoją formą przypominać będzie współczesną galerię sztuki – przestronną i pełną pięknych drzwi. 
         </mj-text>
-        <mj-image padding-top="34px" width="32px" height="32px" src="./img/maps.png" />
+        <mj-image padding-top="34px" width="32px" height="32px" src="https://github.com/EvgenyDibrovsky/newsletter-p/img/maps.png" />
         <mj-text padding-bottom="0" padding-top="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Ptak Warsaw Expo,
         </mj-text>
@@ -209,7 +209,7 @@
             <td width="15%" style="background-color: #ffffff; font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">&nbsp;</td>
             <td rowspan="2" width="70%" style=" font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">
               <a href="#" target="_blank" rel="noopener noreferrer">
-                <img src="./img/video.jpg" width="100%">
+                <img src="https://github.com/EvgenyDibrovsky/newsletter-p/img/video.jpg" width="100%">
               </a>
             </td>
             <td width="15%" style="background-color: #ffffff; font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">&nbsp;</td>
@@ -225,10 +225,10 @@
     <mj-section background-color="#000000" padding-bottom="35px">
       <mj-column>
         <mj-text align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="./img/social-1.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="./img/social-2.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="./img/social-3.png" style="wifth: 22px; margin-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="./img/social-4.png" style="wifth: 22px; margin-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/EvgenyDibrovsky/newsletter-p/img/social-1.png" style="wifth: 22px; margin-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/EvgenyDibrovsky/newsletter-p/img/social-2.png" style="wifth: 22px; margin-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/EvgenyDibrovsky/newsletter-p/img/social-3.png" style="wifth: 22px; margin-right: 14.24px"></a>
+          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/EvgenyDibrovsky/newsletter-p/img/social-4.png" style="wifth: 22px; margin-right: 14.24px"></a>
         </mj-text>
         <mj-text padding-bottom="0" padding-top="20px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
           PORTA KMI POLAND spółka akcyjna, ul. Szkolna 54, 84–239 Bolszewo, <a href="https://www.porta.com.pl/" target="_blank" rel="noopener noreferrer" style="color: #ffffff"> www.porta.com.pl</a> zarejestrowana w Sądzie Rejonowym Gdańsk – Północ w Gdańsku, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, KRS: 0000 838 758, NIP: 585 000 62 04, REGON: 190542423. Kapitał zakładowy: 125.704.899,00 zł, w całości opłacony.Administratorem Twoich danych jest PORTA KMI POLAND S.A. Odnośnie przysługujących Ci praw: porta.com.pl/obowiazek_informacyjny
