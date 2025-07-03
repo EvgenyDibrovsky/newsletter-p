@@ -1,7 +1,5 @@
 <mjml>
   <mj-head>
-    <mj-title></mj-title>
-    <mj-preview></mj-preview>
 
   </mj-head>
   <mj-body background-color="#ffffff">
@@ -14,7 +12,7 @@
             </mj-text>
           </mj-column>
           <mj-column width="20%" vertical-align="middle">
-            <mj-image src="https://evgenydibrovsky.github.io/newsletter-p/img/Logo.png" alt="logotyp" align="right" width="90px" padding="0" />
+            <mj-image src="./img/Logo.png" alt="logotyp" align="right" width="90px" padding="0" href="https://www.porta.com.pl/strefa-architekta" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -25,14 +23,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-wrapper padding="0" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-p/img/bg-hero.png" background-repeat="no-repeat" background-position="center" background-size="cover">
-      <mj-section padding-left="40px" padding-right="40px" padding-top="89px" padding-bottom="89px">
+    <mj-wrapper padding-left="0" padding-right="0" padding-top="89px" padding-bottom="89px" background-color="#000000" background-url="./img/bg-hero.jpg" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-section padding="0">
         <mj-column width="80%">
           <mj-text padding="0" align="center" font-weight="800" line-height="23.4px" font-size="18px" color="#ffffff" font-family="Verdana" align="baseline">
             Zachęcamy Cię do zapoznania się z nowo otwartą Strefą PORTA PRO
           </mj-text>
           <mj-text padding="0" align="center" line-height="23.4px" font-weight="800" font-size="16px" color="#ffffff" font-family="Verdana" align="baseline">
-            <a href="https://www.porta.com.pl/strefa-architekta" target="_blank" rel="noopener noreferrer" style="color: #ffffff;">
+            <a href="https://www.porta.com.pl/strefa-architekta?utm_source=Time_mailing&utm_medium=email&utm_campaign=Architekci24" target="_blank" rel="noopener noreferrer" style="color: #ffffff;">
               www.porta.com.pl/strefa-architekta
             </a>
           </mj-text>
@@ -46,21 +44,18 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding-top="45px" padding-bottom="0" background-color="#ffffff">
+    <mj-section padding-top="55px" padding-bottom="10px" background-color="#ffffff">
       <mj-column padding="0" width="90%">
-        <mj-text align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Strefa Architekta PORTA PRO to nowa jakość komunikacji, która oferuje bogaty pakiet korzyści, które ułatwią i przyspieszą Twoją pracę.
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0" background-color="#ffffff">
-      <mj-column padding="0" width="90%">
-        <mj-text align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding-left="0" padding-right="0" padding-top="30px" padding-bottom="0" align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Do najważniejszych należą:
         </mj-text>
       </mj-column>
     </mj-section>
+
+
 
     <mj-section padding-top="10px" background-color="#ffffff" border-bottom="2px">
       <mj-group width="85%">
@@ -163,14 +158,14 @@
     </mj-section>
 
 
-    <mj-wrapper padding-top="95px" padding-bottom="95px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-p/img/bg-content.png" background-repeat="no-repeat" background-position="center" background-size="cover">
-      <mj-section>
+    <mj-wrapper padding-top="104px" padding-bottom="104px" padding-left="0" padding-right="0" background-color="#000000" background-url="./img/bg-content.jpg" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-section padding="0">
         <mj-group width="80%">
-          <mj-column width="30%" vertical-align="middle">
-            <mj-image width="96px" src="https://evgenydibrovsky.github.io/newsletter-p/img/content.png" />
+          <mj-column width="25%" padding="0" vertical-align="middle">
+            <mj-image padding="0" width="96px" src="./img/content.png" />
           </mj-column>
-          <mj-column width="70%" vertical-align="middle">
-            <mj-text align="left" font-weight="800" line-height="23.4px" font-size="18px" color="#ffffff" font-family="Verdana" align="baseline">
+          <mj-column width="75%" vertical-align="middle">
+            <mj-text padding-top="0" padding-bottom="0" padding-left="28px" padding-right="0" align="left" font-weight="800" line-height="23.4px" font-size="18px" color="#ffffff" font-family="Verdana" align="baseline">
               Mamy przyjemność zaprosić Cię na Targi Warsaw Home!
             </mj-text>
           </mj-column>
@@ -178,57 +173,79 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding-top="45px" padding-bottom="35px" background-color="#ffffff">
+    <mj-section padding-top="55px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="90%">
-        <mj-text align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Znajdziesz nas w hali B, miejsce B3.01.
         </mj-text>
         <mj-text padding="0" align="center" font-weight="400" line-height="20.3px" font-size="14px" color="#000000" font-family="Verdana" align="baseline">
-          – dedykowanej przestrzeni stworzonej z szacunku do drzwi. Gdzie zaprojektowana z myślą o architektach i projektantach ekspozycja, swoją formą przypominać będzie współczesną galerię sztuki – przestronną i pełną pięknych drzwi. 
+          – dedykowanej przestrzeni stworzonej z szacunku do drzwi. Gdzie zaprojektowana z myślą o architektach i projektantach ekspozycja, swoją formą przypominać będzie współczesną galerię sztuki – przestronną i pełną pięknych drzwi.
         </mj-text>
-        <mj-image padding-top="34px" width="32px" height="32px" src="https://evgenydibrovsky.github.io/newsletter-p/img/maps.png" />
-        <mj-text padding-bottom="0" padding-top="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-image padding-top="34px" padding-bottom="10px" padding-left="0" padding-right="0" width="32px" height="32px" src="./img/maps.png" />
+        <mj-text padding-bottom="0" padding-top="0" padding-left="0" padding-right="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Ptak Warsaw Expo,
         </mj-text>
-        <mj-text padding-bottom="0" padding-top="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           Al. Katowicka 62, 05-830 Nadarzyn
         </mj-text>
-        <mj-text padding-bottom="0" padding-top="20px" align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding-bottom="0" padding-top="20px" padding-left="0" padding-right="0" align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           23 – 26 października 2024 r.
         </mj-text>
-        <mj-text padding-bottom="0" padding-top="0" align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+        <mj-text padding="0" align="center" font-weight="400" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
           od 10.00 do 17.00
         </mj-text>
-        <mj-text padding-bottom="0" padding-top="52px" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
-          Poznaj nas lepiej!
-        </mj-text>
+
       </mj-column>
     </mj-section>
 
 
-    <mj-wrapper padding="0" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-p/img/bg-video.jpg" background-repeat="no-repeat" background-position="center" background-size="cover">
+    <mj-wrapper padding-top="45px" padding-bottom="25px" background-color="#ffffff">
       <mj-section padding="0">
-        <mj-column padding="0">
-          <mj-image padding="0" width="358px" src="https://evgenydibrovsky.github.io/newsletter-p/img/video.jpg" alt="Zobacz wideo" href="#" />
+        <mj-column>
+          <mj-text padding="0" align="center" font-weight="800" line-height="21.94px" font-size="18px" color="#000000" font-family="Verdana" align="baseline">
+            <a href="https://www.youtube.com/watch?v=4vgjEQvxR68?utm_source=Time_mailing&utm_medium=email&utm_campaign=Architekci24" style="color: #000000;  font-family: Verdana; font-size: 18pz; font-weight: 800;">
+              Poznaj nas lepiej!
+            </a>
+          </mj-text>
+          <mj-image padding="0" width="426px" src="./img/video.png" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=4vgjEQvxR68?utm_source=Time_mailing&utm_medium=email&utm_campaign=Architekci24" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
 
 
-    <mj-section background-color="#000000" padding-bottom="35px">
-      <mj-column width="85%">
-        <mj-text align="center" align="baseline">
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-1.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-2.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-3.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://evgenydibrovsky.github.io/newsletter-p/img/social-4.png" style="width: 22px; height: 22px; padding-right: 14.24px"></a>
+    <mj-section background-color="#000000" padding-bottom="35px" padding-top="25px">
+      <mj-column width="62%">
+        <mj-text padding-left="0" padding-right="0" align="center" align="baseline">
+          <table border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+              <td>
+                <a href="https://www.instagram.com/porta_drzwi/" target="_blank" rel="noopener noreferrer">
+                  <img src="./img/social-1.png" width="22" height="22" alt="Instagram" style="display: block; background-color: #000000;">
+                </a>
+              </td>
+              <td width="14" style="font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">&nbsp;</td>
+              <td>
+                <a href="https://www.facebook.com/porta.otworzsiena" target="_blank" rel="noopener noreferrer">
+                  <img src="./img/social-2.png" width="22" height="22" alt="Facebook" style="display: block; background-color: #000000;">
+                </a>
+              </td>
+              <td width="14" style="font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">&nbsp;</td>
+              <td>
+                <a href="https://www.youtube.com/c/PORTADRZWI_PL" target="_blank" rel="noopener noreferrer">
+                  <img src="./img/social-3.png" width="22" height="22" alt="Youtube" style="display: block; background-color: #000000;">
+                </a>
+              </td>
+              <td width="14" style="font-size: 1px; mso-line-height-rule: exactly; line-height: 1px">&nbsp;</td>
+              <td>
+                <a href="https://pl.pinterest.com/portadrzwipolska/" target="_blank" rel="noopener noreferrer">
+                  <img src="./img/social-4.png" width="22" height="22" alt="Pinterest" style="display: block; background-color: #000000;">
+                </a>
+              </td>
+            </tr>
+          </table>
         </mj-text>
-        <mj-text padding-bottom="0" padding-top="20px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
-          PORTA KMI POLAND spółka akcyjna, ul. Szkolna 54, 84–239 Bolszewo, <a href="https://www.porta.com.pl/" target="_blank" rel="noopener noreferrer" style="color: #ffffff;"> www.porta.com.pl</a> zarejestrowana w Sądzie Rejonowym Gdańsk – Północ w Gdańsku, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, KRS: 0000 838 758, NIP: 585 000 62 04, REGON: 190542423. Kapitał zakładowy: 125.704.899,00 zł, w całości opłacony.Administratorem Twoich danych jest PORTA KMI POLAND S.A. Odnośnie przysługujących Ci praw: <a href="https://www.porta.com.pl/obowiazek-informacyjny" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">https://www.porta.com.pl/obowiazek-informacyjny</a>
-        </mj-text>
-        <mj-text padding-bottom="0" padding-top="10px" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
-          If you no longer want to hear from us,
-          <a href="#" target="_blank" rel="noopener noreferrer" style="color: #ffffff;">click here</a>
+        <mj-text padding-bottom="0" padding-top="20px" padding-left="0" padding-right="0" align="center" font-weight="400" line-height="9.2px" font-size="8px" color="#ffffff" font-family="Verdana" align="baseline">
+          PORTA KMI POLAND spółka akcyjna, ul. Szkolna 54, 84–239 Bolszewo, <a href="https://www.porta.com.pl/" target="_blank" rel="noopener noreferrer" style="color: #ffffff;"> www.porta.com.pl</a> zarejestrowana w Sądzie Rejonowym Gdańsk – Północ w Gdańsku, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego, KRS: 0000 838 758, NIP: 585 000 62 04, REGON: 190542423. Kapitał zakładowy: 125.704.899,00 zł, w całości opłacony.
         </mj-text>
       </mj-column>
     </mj-section>
